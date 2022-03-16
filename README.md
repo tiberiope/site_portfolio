@@ -19,3 +19,7 @@ _Entendendo o que é **Git**: Aprendendo sobre **repositórios**. Trabalhando co
 [Instagram](https://instagram.com/tiberiope)
 <br>
 [YouTube](https://www.youtube.com/channel/UCgQL93l8tDdWPBlQMC3s69Q)
+
+>Este é um blockquote, usado para destacar alguma área.
+>
+>Segunda área destacada.
