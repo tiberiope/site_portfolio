@@ -9,6 +9,10 @@ _Entendendo o que é **Git**: Aprendendo sobre **repositórios**. Trabalhando co
 * Aprendendo sobre branches.
 * Git avançado.
 
+1. Começando com GIT.
+2. Aprendendo sobre branches.
+3. Git avançado.
+
 ### Rede Social:
 [Instagram](https://instagram.com/tiberiope)
 <br>
