@@ -10,8 +10,8 @@ _Entendendo o que é **Git**: Aprendendo sobre **repositórios**. Trabalhando co
 * Git avançado.
 
 1. Começando com GIT.
-        1. O que é GIT?
-        2. Outra coisa.
+	1. O que é GIT?
+    2. Outra coisa.
 2. Aprendendo sobre branches.
 3. Git avançado.
 
